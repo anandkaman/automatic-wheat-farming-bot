@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mineflayer": "^4.23.0",
+    "mineflayer-blockfinder": "^0.0.7",
+    "mineflayer-navigate": "^0.0.10",
+    "mineflayer-pathfinder": "^2.4.5",
+    "vec3": "^0.1.10"
+  },
+  "name": "bot3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
