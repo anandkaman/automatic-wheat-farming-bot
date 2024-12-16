@@ -1,6 +1,5 @@
 # automatic-wheat-farming-bot
 
-Certainly! Here's a detailed explanation of the bot you implemented, including its functionality and the coding concepts behind it:
 
 ---
 
